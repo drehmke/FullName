@@ -1,4 +1,7 @@
-var fname = prompt("What is your first name?");
-var lname = prompt("What is your last name?");
-alert('Welcome to my page, ' + fname + ' ' + lname);
+var greetBtn = document.getElementById('greetMe');
+greetBtn.addEventListener('click', function () {
+    var fname = prompt("What is your first name?");
+    var lname = prompt("What is your last name?");
+    alert('Welcome to my page, ' + fname + ' ' + lname);
+});
 //# sourceMappingURL=app.js.map
