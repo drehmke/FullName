@@ -1,0 +1,2 @@
+C:\programming\FullStackDotNet\WeekOne\FullName\src\FullName\wwwroot\app.js
+C:\programming\FullStackDotNet\WeekOne\FullName\src\FullName\wwwroot\app.js.map
